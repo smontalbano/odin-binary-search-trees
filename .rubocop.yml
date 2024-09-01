@@ -1,0 +1,17 @@
+Style/Documentation:
+  Enabled: false
+
+Style/NestedModifier:
+  Enabled: false
+
+Lint/UselessSetterCall:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Metrics/ClassLength:
+  Enabled: false
+
+Metrics/ABCLength:
+  Enabled: false
